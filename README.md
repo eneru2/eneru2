@@ -1,3 +1,3 @@
 ### Hi, I'm Andrés Mezones
 
-I've been loving web development ever since making my first website. Angular is my favorite framework in the JavaScript ecosystem. I'm currently looking for a role as an Angular Developer. I'd especially love to work for a small company or a startup where I can make an impact.
+Passionate about web development since creating my first website, I have developed a deep affinity for Angular, my favorite framework in the JavaScript ecosystem. Currently seeking opportunities as an Angular Developer, I am particularly enthusiastic about contributing to the success of a small company or startup where I can make a meaningful impact.
